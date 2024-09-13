@@ -9,6 +9,6 @@ OpenWRT Packages for BPIR4 + 5G/4G Modem Support
 ```
 ### Firmware:
 ```
-1. ImmortalWRT Snapshot K6.6.30
+1. ImmortalWRT Snapshot
 2. OpenWRT Offical
 ```
