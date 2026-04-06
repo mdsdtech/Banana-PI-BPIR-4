@@ -1,3 +1,5 @@
+# Moved project to [GFriendWRT](https://github.com/mdsdtech/GFriendWRT). This repository is now deprecated and will no longer be updated.
+
 # Banana-PI-BPIR-4
 OpenWRT Packages for BPIR4 + 5G/4G Modem Support
 
